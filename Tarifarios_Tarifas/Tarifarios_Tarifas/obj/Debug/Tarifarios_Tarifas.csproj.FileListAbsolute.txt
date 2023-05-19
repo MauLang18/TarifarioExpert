@@ -1,0 +1,109 @@
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Tarifarios_Tarifas.exe.config
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Tarifarios_Tarifas.exe
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Tarifarios_Tarifas.pdb
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.csproj.AssemblyReference.cache
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.csproj.SuggestedBindingRedirects.cache
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Form1.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Properties.Resources.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.csproj.GenerateResource.cache
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.csproj.CoreCompileInputs.cache
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.exe
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.pdb
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.FrmTarifarios.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.csproj.CopyComplete
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.Tarifarios.FrmAgenteOrigen.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Google.Protobuf.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\MySql.Data.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\System.Buffers.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\System.Memory.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\ZstdNet.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Google.Protobuf.pdb
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Google.Protobuf.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\MySql.Data.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\System.Buffers.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\System.Memory.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.Tarifarios.FrmNavieros.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.Tarifarios.FrmTransbordo.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.Tarifarios.FrmCargosDestino.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.FrmAgregarDatos.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Tarifarios_Tarifas.exe.manifest
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\bin\Debug\Tarifarios_Tarifas.application
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.exe.manifest
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.application
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.Competencia.FrmCostos.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.FrmCompetencia.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Tarifarios_Tarifas\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.FrmTarifas.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Tarifarios_Tarifas.exe.config
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Tarifarios_Tarifas.exe.manifest
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Tarifarios_Tarifas.application
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Tarifarios_Tarifas.exe
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Tarifarios_Tarifas.pdb
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Google.Protobuf.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\MySql.Data.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\System.Buffers.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\System.Memory.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\ZstdNet.dll
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Google.Protobuf.pdb
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Google.Protobuf.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\MySql.Data.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\System.Buffers.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\System.Memory.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.csproj.AssemblyReference.cache
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.csproj.SuggestedBindingRedirects.cache
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Form1.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.Competencia.FrmCostos.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.FrmAgregarDatos.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.FrmCompetencia.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.FrmTarifarios.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.Tarifarios.FrmAgenteOrigen.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.Tarifarios.FrmCargosDestino.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.Tarifarios.FrmNavieros.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.Tarifarios.FrmTransbordo.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Properties.Resources.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.csproj.GenerateResource.cache
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.csproj.CoreCompileInputs.cache
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.exe.manifest
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.application
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.csproj.CopyComplete
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.exe
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.pdb
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.FrmLCL.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.LCL.FrmAgenteOrigenLCL.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.LCL.FrmCargosDestinoLCL.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.LCL.FrmTransbordoLCL.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.LCL.FrmNavierosLCL.resources
+C:\Users\maula\OneDrive\Documentos\CastroFallas\Sistema Tarifarios_Tarifas v5\Tarifarios_Tarifas\obj\Debug\Tarifarios_Tarifas.Forms.LCL.FrmTotalLCL.resources

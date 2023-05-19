@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="idTarifario.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="rutaTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorAgenteOrigenTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="manejosAgenteOrigenTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="hblAgenteOrigenTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalAgenteOrigenTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorFleteInternacionalTarifario.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="thcFleteInternacionalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="docFeeFleteInternacionalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="securityFleteInternacionalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="impresionBlFleteInternacionalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="portFacilityFleteInternacional.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="canalFeeFleteInternacionalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="vacFleteInternacionalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="impdoFleteInternacionalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="merchantFleteInternacionalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="fleteTotalFleteInternacionalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalFleteInternacionalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorGastosPortuariosTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="manejosPuertoGastosPortuariosTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalGastosPortuariosTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorMovimientoPuertoBodegaTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="transportePuertoMovimientoPuertoBodegaTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalMovimientoPuertoBodegaTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorOC1Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="productoOC1Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoOC1Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorOC2Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="productoOC2Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoOC2Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorOC3Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="productoOC3Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoOC3Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalOCTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorOS1Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="productoOS1Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoOS1Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorOS2Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="productoOS2Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoOS2Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorOS3Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="productoOS3Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoOS3Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalOSTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorCargosDestino1Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoCargoDestino1Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorCargoDestino2Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoCargoDestino2Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorCargoDestino3Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoCargoDestino3Tarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalCargosDestinoTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="modalidadTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="equipoTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="desdeTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="hastaTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalTarifarios.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="idLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="rutaLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorAgenteOrigenLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="manejosAgenteOrigenLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="hblAgenteOrigenLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="thcDCbmFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="thcDMinimoFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="vgmMinimoFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="bunkerCbmFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="bunkerMinimoFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="sedMinimoFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="tcaMinimoFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="forwardingMinimoFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="ManejosMinimoFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="cargaPeligrosaMinimoFleteInternacionalLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorCargosEnDestinoLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="cargosCargosEnDestinoLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorMovimientoBodegaLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="transporteBodegaMovimientoBodegaLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorOC1LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="productoOC1LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoOC1LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorOC2LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="productoOC2LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoOC2LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorOC3LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="productoOC3LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoOC3LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorCargoDestino1LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoCargoDestino1LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorCargoDestino2LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoCargoDestino2LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="proveedorCargoDestino23LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="costoCargoDestino3LCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="modalidadLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="equipoLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="desdeLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="hastaLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalFleteCbmLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalFleteMinimoLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalOtrosCostosCbmLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalOtrosCostosMinimosLCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalOtrosCostosFlatCL.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="idCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="nombreCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="rutaCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="fleteCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="cargosDestinoCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="otrosCostosCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="ivaCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="modalidadCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="equipoCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="desdeCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="hastaCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="totalCompetencia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        AAAAAElFTkSuQmCC
+</value>
+  </data>
+</root>
